@@ -55,6 +55,8 @@ streamlit run ObjectDetection/app.py
 ```
 
 ## Screenshots
-- ![Levenshtein Distance App](./data/levenshtein.png)
-- ![Object Detection App](./data/objectdetection)
-- ![Chatbot Interface](./data/chatbot.png)
+<div align="center">
+   <img src="./data/levenshtein.png">
+   <img src="./data/objectdetection.png">
+   <img src="./data/chatbot.png">
+</div>
